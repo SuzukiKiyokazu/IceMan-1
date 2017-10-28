@@ -19,7 +19,7 @@ public:
 	{
 		return GWSTATUS_CONTINUE_GAME;
 	}
-
+hjhjhj
 	virtual int move()
 	{
 		// This code is here merely to allow the game to build, run, and terminate after you hit enter a few times.
